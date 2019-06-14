@@ -10,6 +10,7 @@ public class Department {
 	private String telephone;
 	private String remark;
 
+	
 	public String getDepartmentCode() {
 		return departmentCode;
 	}
